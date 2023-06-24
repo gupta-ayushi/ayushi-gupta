@@ -1,3 +1,4 @@
+![](hello-world.jpg)
 <h1 align="center">Hi 👋, I'm Ayushi Gupta</h1>
 <h3 align="center">Student | Passionate Learner | Code Explorer</h3>
 
